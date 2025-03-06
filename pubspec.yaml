@@ -9,8 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.4.0  # Use the latest version
+  dio: ^5.8.0+1  # Use the latest version
   path_provider: ^2.1.1  # To get the local storage path
+  flex_color_scheme: ^8.1.1
+  pretty_dio_logger: ^1.4.0
 
 dev_dependencies:
   flutter_test:
