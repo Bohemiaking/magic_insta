@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "714081474117",
+    "project_id": "magicinsta-9999",
+    "storage_bucket": "magicinsta-9999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714081474117:android:533e74694a1646d86c352c",
+        "android_client_info": {
+          "package_name": "com.himanshu.magic_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714081474117-4j8jejnsrn31ie0vptpcl6h7rpmspbls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.magic_insta",
+            "certificate_hash": "baf658f6cd6a918c7a228c03ff1f26f11275e2dd"
+          }
+        },
+        {
+          "client_id": "714081474117-u8oa7o4p0imjndgqg4sht33pv3o2cigo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshu.magic_insta",
+            "certificate_hash": "0a3b341c80129ac457998a68daa1148617b62511"
+          }
+        },
+        {
+          "client_id": "714081474117-jc955572rl3dd22iull1n8fkdbsd9n97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYngnHkXjR1EmduGpnidgnnqUFEQyT1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714081474117-jc955572rl3dd22iull1n8fkdbsd9n97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714081474117-nqts0c5ndqlb8p3lcakhk1etg8s3j2ad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.himanshu.magicInsta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

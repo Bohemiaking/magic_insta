@@ -1,0 +1,2 @@
+D:/Projects/magic_insta/android/app/.cxx/Debug/h1x1n1c3/x86/CMakeFiles/edit_cache.dir
+D:/Projects/magic_insta/android/app/.cxx/Debug/h1x1n1c3/x86/CMakeFiles/rebuild_cache.dir

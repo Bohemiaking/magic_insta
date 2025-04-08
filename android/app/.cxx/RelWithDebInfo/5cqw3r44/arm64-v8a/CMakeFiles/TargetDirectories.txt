@@ -1,0 +1,2 @@
+D:/Projects/magic_insta/android/app/.cxx/RelWithDebInfo/5cqw3r44/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Projects/magic_insta/android/app/.cxx/RelWithDebInfo/5cqw3r44/arm64-v8a/CMakeFiles/rebuild_cache.dir
